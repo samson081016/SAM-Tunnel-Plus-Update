@@ -1,1 +1,1 @@
-{ "versionCode": "1.1.3", "url": "https://www.mediafire.com/download/57wgrbpagu4u4mf", "Message": "pls update your app to the latest version\nmore futures available in new updates\ apps v.27" }
+{ "versionCode": "1.1.4", "url": "https://drive.google.com/u/2/uc?id=19vh4g60ZmvRKzZ0swXiAiKeQFJBvWv0d&export=download", "Message": "pls update your app to the latest version\nmore futures available in new updates\VNP V28" }
