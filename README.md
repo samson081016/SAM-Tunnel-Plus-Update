@@ -1,1 +1,1 @@
-{ "versionCode": "3.4.0", "url": "https://drive.google.com/u/2/uc?id=1ZlwyZ1uo8hl9zFaYxA2AhYGy-9Ob0m4g&export=download", "Message": "pls update your app to the latest version\nmore futures available in new updates\ new V34" }
+{ "versionCode": "1.1.1", "url": "https://drive.google.com/u/2/uc?id=1ZlwyZ1uo8hl9zFaYxA2AhYGy-9Ob0m4g&export=download", "Message": "pls update your app to the latest version\nmore futures available in new updates\ new V16" }
