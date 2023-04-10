@@ -1,2 +1,2 @@
-{ "versionCode": "29", "url": "https://drive.google.com/u/2/uc?id=15vcy096qzg1v8qPurIyh5Oove8anStV4&export=download", "Message": "pls update your app to the latest version\nmore futures available in new updates\VNP 28" }
+{ "versionCode": "17", "url": "https://drive.google.com/u/2/uc?id=15vcy096qzg1v8qPurIyh5Oove8anStV4&export=download", "Message": "pls update your app to the latest version\nmore futures available in new updates\VNP 17" }
 
